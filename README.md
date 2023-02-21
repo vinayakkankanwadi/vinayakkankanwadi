@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinayakkankanwadi
-- 👀 I’m interested in Autonomous System, AI, Blockchain, Mulyi-Agent Systems
-- 🌱 I’m currently learning autonomous system
-- 💞️ I’m looking to collaborate on Autonomous System, AI
+- 👀 My interest is in AI and its use to solve problem in Autonomous System, Blockchain, Mulyi-Agent Systems
+- 🌱 I’m currently learning GPT
+- 💞️ I’m looking to collaborate on GPT related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
 <!---
