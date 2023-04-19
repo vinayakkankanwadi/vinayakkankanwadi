@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vinayakkankanwadi
-- 👀 My interest is in AI and its use to solve problem in Autonomous System, Blockchain, Mulyi-Agent Systems
+- 👋 Hi, I’m Vin,
+- 👀 My interest is in AI and its use to solve problem in Autonomous System, Blockchain, Muli-Agent Systems
 - 🌱 I’m currently into Generative AI
 - 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
