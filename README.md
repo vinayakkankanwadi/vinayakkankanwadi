@@ -11,7 +11,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vinayakkankanwadi&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=vinayakkankanwadi&hide=contribs&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
