@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinayakkankanwadi&theme=neon&hide_border=true&card_width=600&card_height=150)](https://git.io/streak-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg">
