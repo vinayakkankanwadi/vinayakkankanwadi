@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
-<p align="right">
-  <img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=vinayakkankanwadi&no-bg=true&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET">
+<p align="center">
+  <img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=vinayakkankanwadi&no-bg=true&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET&column=5">
 </p>
 
 
