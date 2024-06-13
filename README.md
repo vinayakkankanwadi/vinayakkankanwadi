@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/vinayakkankanwadi/vinayakkankanwadi/blob/main/assets/github-header.png)](https://github.com/vinayakkankanwadi)
 - 👋 Hi, I’m Vin,
 - 👀 My interest is in AI and its use to solve problem in Autonomous System, Blockchain, Muli-Agent Systems
 - 🌱 I’m currently into Generative AI
