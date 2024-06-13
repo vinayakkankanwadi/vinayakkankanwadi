@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vinayakkankanwadi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vinayakkankanwadi&theme=transparent&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
