@@ -1,12 +1,13 @@
 
 [![MasterHead](https://github.com/vinayakkankanwadi/vinayakkankanwadi/blob/main/assets/github-header2.png)](https://github.com/vinayakkankanwadi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinayakkankanwadi&no-bg=true&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/vinayakkankanwadi/github-profile-trophy)
+
 - 👋 Hi, I’m Vin,
-- 👀 My interest is in AI and its use to solve problem in Autonomous System, Blockchain, Muli-Agent Systems
+- 👀 My passion is into Generative AI
 - 🌱 I’m currently into Generative AI
 - 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinayakkankanwadi&no-bg=true&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/vinayakkankanwadi/github-profile-trophy)
 
 <p align="center">
 
