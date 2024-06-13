@@ -10,10 +10,10 @@
 
 
 <p align="center">
-<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=vinayakkankanwadi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vinayakkankanwadi&hide=contribs&show_icons=true&theme=transparent"
@@ -25,13 +25,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vinayakkankanwadi&show_icons=true" />
 </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg"/>
 </picture>
-</p>
 
 <!---
 vinayakkankanwadi/vinayakkankanwadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
