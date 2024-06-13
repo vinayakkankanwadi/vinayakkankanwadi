@@ -31,6 +31,10 @@
 </p>
 
 <p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkankanwadi&hide_progress=true&theme=transparent">
+</p>
+
+<p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake-dark.svg"/>
