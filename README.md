@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinayakkankanwadi&no-bg=true&theme=matrix&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/vinayakkankanwadi/github-profile-trophy)
 
 <p align="center">
 
@@ -22,9 +23,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinayakkankanwadi/vinayakkankanwadi/output/github-contribution-grid-snake.svg"/>
 </picture>
 </p>
 
