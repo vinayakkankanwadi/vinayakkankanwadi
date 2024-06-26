@@ -2,9 +2,9 @@
 [![MasterHead](https://github.com/vinayakkankanwadi/vinayakkankanwadi/blob/main/assets/github-header2.png)](https://github.com/vinayakkankanwadi)
 
 - 👋 Hi, I’m Vin,
-- 👀 My passion is into Generative AI
-- 🌱 I’m currently into Generative AI
-- 💞️ I’m looking to collaborate on Generative AI related projects
+- 👀 Passionate abt Generative AI
+- 🌱 Into Generative AI
+- 💞️ Happy to collaborate on Generative AI related projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
 <p align="center">
