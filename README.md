@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Vin,
 - 👀 Passionate abt Generative AI
 - 🌱 Into Generative AI
-- 💞️ Happy to collaborate on Generative AI related projects
+- 💞️ Happy to collaborate on GenAI projects
 - 📫 How to reach me vinayakkankanwadi@hotmail.com
 
 <p align="center">
